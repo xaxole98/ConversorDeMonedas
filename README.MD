@@ -17,7 +17,7 @@ La aplicación Currency Converter permite a los usuarios convertir diferentes mo
 
 1. Descargue el código fuente del repositorio [Currency Converter](https://github.com/xaxole98/currency-converter).
 2. Abra el proyecto en su entorno de desarrollo Java preferido.
-3. Ejecute la clase `Plataforma` para iniciar la aplicación.
+3. Ejecute la clase `App` para iniciar la aplicación.
 4. Ingrese la cantidad que desea convertir en el campo "Amount".
 5. Seleccione la moneda de origen en el menú desplegable "De:".
 6. Seleccione la moneda de destino en el menú desplegable "A:".
