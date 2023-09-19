@@ -1,11 +1,17 @@
 package com.xaxocode;
 
+import com.xaxocode.modules.Plataforma;
+
 /**
  * Hello world!
  *
  */
 public class App {
     public static void main(String[] args) {
-        System.out.println("Hello World!");
+        javax.swing.SwingUtilities.invokeLater(new Runnable() {
+            public void run() {
+                Plataforma.initComponents();
+            }
+        });
     }
 }
