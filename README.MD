@@ -1,47 +1,47 @@
 # Currency Converter App
 
-Este proyecto es una aplicación de conversión de moneda desarrollada en Java por [xaxole98](https://github.com/xaxole98). Es un proyecto independiente que demuestra las habilidades de desarrollo de un desarrollador junior en Java.
+This project is a currency conversion application developed in Java by [xaxole98](https://github.com/xaxole98). It is an independent project that showcases the development skills of a junior Java developer.
 
-## Descripción
+## Description
 
-La aplicación Currency Converter permite a los usuarios convertir diferentes monedas utilizando los tipos de cambio proporcionados por la API CurrencyFreaks. La aplicación incluye una interfaz gráfica de usuario (GUI) que permite a los usuarios ingresar la cantidad que desean convertir, seleccionar la moneda de origen y la moneda de destino, y luego realizar la conversión.
+The Currency Converter application allows users to convert different currencies using exchange rates provided by the CurrencyFreaks API. The application features a Graphical User Interface (GUI) that enables users to input the amount they want to convert, select the source currency and target currency, and then perform the conversion.
 
-## Características
+## Features
 
-- Interfaz gráfica de usuario (GUI) intuitiva.
-- Conversión de moneda en tiempo real utilizando la API CurrencyFreaks.
-- Selección de moneda de origen y destino a través de menús desplegables.
-- Resultados instantáneos de la conversión de moneda.
+- Intuitive Graphical User Interface (GUI).
+- Real-time currency conversion using the CurrencyFreaks API.
+- Selection of source and target currencies through dropdown menus.
+- Instantaneous currency conversion results.
 
-## Uso
+## Usage
 
-1. Descargue el código fuente del repositorio [Currency Converter](https://github.com/xaxole98/currency-converter).
-2. Abra el proyecto en su entorno de desarrollo Java preferido.
-3. Ejecute la clase `App` para iniciar la aplicación.
-4. Ingrese la cantidad que desea convertir en el campo "Amount".
-5. Seleccione la moneda de origen en el menú desplegable "De:".
-6. Seleccione la moneda de destino en el menú desplegable "A:".
-7. Haga clic en el botón "Convertir" para ver el resultado de la conversión en el campo "Resultado".
+1. Download the source code from the [Currency Converter repository](https://github.com/xaxole98/currency-converter).
+2. Open the project in your preferred Java development environment.
+3. Run the `App` class to start the application.
+4. Enter the amount you wish to convert in the "Amount" field.
+5. Select the source currency from the "From:" dropdown menu.
+6. Select the target currency from the "To:" dropdown menu.
+7. Click the "Convert" button to view the conversion result in the "Result" field.
 
-## Tecnologías Utilizadas
+## Technologies Used
 
 - Java
 - JSON
-- API CurrencyFreaks
-- Librería JSON-java
-- Swing (para la interfaz gráfica de usuario)
+- CurrencyFreaks API
+- JSON-java library
+- Swing (for the Graphical User Interface)
 
-## Contribuciones
+## Contributions
 
-Si desea contribuir a este proyecto, siéntase libre de abrir un problema o enviar una solicitud de extracción. Estoy abierto a mejoras y sugerencias.
+If you'd like to contribute to this project, feel free to open an issue or submit a pull request. I am open to improvements and suggestions.
 
-## Licencia
+## License
 
-Este proyecto está bajo la licencia [MIT](https://github.com/xaxole98/currency-converter/blob/main/LICENSE). Puede utilizar y modificar el código según sus necesidades.
+This project is licensed under the [MIT License](https://github.com/xaxole98/currency-converter/blob/main/LICENSE). You can use and modify the code according to your needs.
 
-## Contacto
+## Contact
 
-- Nombre: [xaxole98](https://github.com/xaxole98)
+- Name: [xaxole98](https://github.com/xaxole98)
 - Telegram: [Telegram](https://t.me/xaxole98)
 
-¡Gracias por revisar mi proyecto! Siéntase libre de explorar el código fuente y probar la aplicación. Si tiene alguna pregunta o sugerencia, no dude en ponerse en contacto conmigo.
+Thank you for checking out my project! Feel free to explore the source code and try out the application. If you have any questions or suggestions, don't hesitate to contact me.
